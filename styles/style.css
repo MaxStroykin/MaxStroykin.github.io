@@ -1,0 +1,63 @@
+html {
+  font-size: 25px; 
+  font-family: 'Merriweather', serif;
+  background-color: #DFC794;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #000000;
+  text-shadow: 3px 3px 5px #DFC794;
+  text-align: center;
+}
+
+
+p {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 0px;
+  width: 95vw;
+  word-break: break-all;
+}
+li {
+  font-size: 14px;
+  line-height: 2;
+  letter-spacing: 0px;
+  width: 100%;
+  word-break: break-all;
+}
+body {
+  width: 80%;
+  margin: 50px auto 100px;
+  background-color: #fff;
+  padding: 0px 20px 20px 20px;
+  border: 3px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 60%;
+}
+
+div {
+  font-size: 20px;
+  text-indent: 20px;
+  text-align: justify;
+  margin: 30px 20px 0px;
+}
+button {
+  margin: 40px auto;
+  display: block;
+  font-size: 14px;
+}
+h5 {
+  font-size: 10px;
+  text-align: center;
+}
+.niz {
+    font-size: 20px;
+    text-indent: 20px;
+    text-align: justify;
+    margin: 30px 20px 0px;
+}
